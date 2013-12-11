@@ -1,6 +1,7 @@
 package com.uuu.androidtestee;
 
 public class Utility {
+	int x;
 
 	/**
 	 * @param args
