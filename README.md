@@ -24,5 +24,8 @@ Android running sequence
 
 1. onCreate
 2. add something
-2. onStart
-3. onRestart
+3. onStart
+4. onRestart
+
+
+[Yahoo Buy]http://tw.yahoo.com
